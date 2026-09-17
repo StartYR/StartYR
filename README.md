@@ -91,16 +91,16 @@ Building apps, websites and ideas.
 
 <div align="center">
 
-<img height="165" src="https://raw.githubusercontent.com/StartYR/StarHeartY/stats/github-stats.svg" alt="GitHub 贡献" />
-<img height="165" src="https://raw.githubusercontent.com/StartYR/StarHeartY/stats/languages.svg" alt="StartYR 的常用语言" />
+<img height="165" src="https://raw.githubusercontent.com/StartYR/StartYR/stats/github-stats.svg" alt="GitHub 贡献" />
+<img height="165" src="https://raw.githubusercontent.com/StartYR/StartYR/stats/languages.svg" alt="StartYR 的常用语言" />
 
-![GitHub 连续贡献统计](https://raw.githubusercontent.com/StartYR/StarHeartY/stats/streak.svg)
+![GitHub 连续贡献统计](https://raw.githubusercontent.com/StartYR/StartYR/stats/streak.svg)
 
-[![StartYR 的 GitHub 活动图](https://raw.githubusercontent.com/StartYR/StarHeartY/stats/activity.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![StartYR 的 GitHub 活动图](https://raw.githubusercontent.com/StartYR/StartYR/stats/activity.svg)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StartYR/StarHeartY/stats/trophy-dark.svg">
-  <img width="95%" src="https://raw.githubusercontent.com/StartYR/StarHeartY/stats/trophy.svg" alt="StartYR 的 Trophy Board">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StartYR/StartYR/stats/trophy-dark.svg">
+  <img width="95%" src="https://raw.githubusercontent.com/StartYR/StartYR/stats/trophy.svg" alt="StartYR 的 Trophy Board">
 </picture>
 
 </div>
@@ -111,9 +111,9 @@ Building apps, websites and ideas.
 <summary><h2>🐍 贡献</h2></summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StartYR/StarHeartY/snake/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StartYR/StarHeartY/snake/github-contribution-grid-snake.svg">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StartYR/StarHeartY/snake/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StartYR/StartYR/snake/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StartYR/StartYR/snake/github-contribution-grid-snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/StartYR/StartYR/snake/github-contribution-grid-snake.svg">
 </picture>
 
 </details>
