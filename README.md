@@ -21,7 +21,7 @@ Building apps, websites and ideas.
 
 ## 🚀 项目
 
-### [CalculatorX](https://github.com/StartYR/CalculatorX) · 鸿蒙专业符号计算器 [![GitHub stars](https://img.shields.io/github/stars/StartYR/CalculatorX)](https://github.com/StartYR/CalculatorX)
+### [CalculatorX](https://github.com/StartYR/CalculatorX) · 专业符号计算器 [![GitHub stars](https://img.shields.io/github/stars/StartYR/CalculatorX)](https://github.com/StartYR/CalculatorX)
 
 为HarmonyOS打造的**专业级符号计算器**，集成**Giac**与**SymEngine**双CAS引擎，支持微积分、符号运算与超大数计算。
 
