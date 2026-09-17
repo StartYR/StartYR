@@ -41,7 +41,7 @@ Building apps, websites and ideas.
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="./assets/icons/java.svg" width="65" height="65" alt="CSS" />
+      <img src="./assets/icons/java.svg" width="65" height="65" alt="Java" />
       <br>Java
     </td>
     <td align="center" width="96">
