@@ -103,6 +103,10 @@ Building apps, websites and ideas.
   <img width="95%" src="https://raw.githubusercontent.com/StartYR/StartYR/stats/trophy.svg" alt="StartYR 的 Trophy Board">
 </picture>
 
+<a href="/" target="_blank">
+    <img src="https://my.ippure.com/v1/card" alt="访客IP信息卡片" width="500" title=IP信息" />
+</a>
+
 </div>
 
 </details>
